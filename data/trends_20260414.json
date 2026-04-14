@@ -3,82 +3,91 @@
         "post_id": 47753472,
         "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
         "category": "sports",
-        "score": 353,
-        "num_comments": 172,
+        "score": 358,
+        "num_comments": 175,
         "author": "m-hodges",
-        "collected_at": "2026-04-14 11:30:09"
-    },
-    {
-        "post_id": 47756772,
-        "title": "(AMD) Build AI Agents That Run Locally",
-        "category": "technology",
-        "score": 93,
-        "num_comments": 23,
-        "author": "galaxyLogic",
-        "collected_at": "2026-04-14 11:30:11"
-    },
-    {
-        "post_id": 47750872,
-        "title": "Servo is now available on crates.io",
-        "category": "technology",
-        "score": 420,
-        "num_comments": 137,
-        "author": "ffin",
-        "collected_at": "2026-04-14 11:30:12"
-    },
-    {
-        "post_id": 47753689,
-        "title": "Building a CLI for All of Cloudflare",
-        "category": "technology",
-        "score": 257,
-        "num_comments": 80,
-        "author": "soheilpro",
-        "collected_at": "2026-04-14 11:30:12"
+        "collected_at": "2026-04-14 12:18:21"
     },
     {
         "post_id": 47728970,
         "title": "Write less code, be more responsible",
         "category": "technology",
-        "score": 14,
-        "num_comments": 9,
+        "score": 24,
+        "num_comments": 13,
         "author": "orhunp_",
-        "collected_at": "2026-04-14 11:30:13"
+        "collected_at": "2026-04-14 12:18:23"
+    },
+    {
+        "post_id": 47750872,
+        "title": "Servo is now available on crates.io",
+        "category": "technology",
+        "score": 428,
+        "num_comments": 138,
+        "author": "ffin",
+        "collected_at": "2026-04-14 12:18:24"
+    },
+    {
+        "post_id": 47756772,
+        "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+        "category": "technology",
+        "score": 100,
+        "num_comments": 24,
+        "author": "galaxyLogic",
+        "collected_at": "2026-04-14 12:18:25"
+    },
+    {
+        "post_id": 47753689,
+        "title": "Building a CLI for all of Cloudflare",
+        "category": "technology",
+        "score": 259,
+        "num_comments": 84,
+        "author": "soheilpro",
+        "collected_at": "2026-04-14 12:18:25"
     },
     {
         "post_id": 47756569,
         "title": "Show HN: Ithih\u0101sas \u2013 a character explorer for Hindu epics, built in a few hours",
         "category": "entertainment",
-        "score": 96,
-        "num_comments": 23,
+        "score": 109,
+        "num_comments": 24,
         "author": "cvrajeesh",
-        "collected_at": "2026-04-14 11:30:14"
+        "collected_at": "2026-04-14 12:18:27"
     },
     {
-        "post_id": 47758347,
-        "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+        "post_id": 47759292,
+        "title": "The AI revolution in math has arrived",
         "category": "technology",
-        "score": 31,
-        "num_comments": 10,
-        "author": "mufeedvh",
-        "collected_at": "2026-04-14 11:30:16"
+        "score": 13,
+        "num_comments": 0,
+        "author": "sonabinu",
+        "collected_at": "2026-04-14 12:18:27"
     },
     {
         "post_id": 47729046,
         "title": "Air Powered Segment Display? [video]",
         "category": "technology",
-        "score": 34,
-        "num_comments": 6,
+        "score": 46,
+        "num_comments": 9,
         "author": "ProfDreamer",
-        "collected_at": "2026-04-14 11:30:16"
+        "collected_at": "2026-04-14 12:18:29"
+    },
+    {
+        "post_id": 47758347,
+        "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+        "category": "technology",
+        "score": 36,
+        "num_comments": 10,
+        "author": "mufeedvh",
+        "collected_at": "2026-04-14 12:18:30"
     },
     {
         "post_id": 47755209,
         "title": "B-trees and database indexes (2024)",
         "category": "technology",
-        "score": 82,
-        "num_comments": 34,
+        "score": 86,
+        "num_comments": 37,
         "author": "tosh",
-        "collected_at": "2026-04-14 11:30:19"
+        "collected_at": "2026-04-14 12:18:35"
     },
     {
         "post_id": 47752466,
@@ -87,25 +96,16 @@
         "score": 78,
         "num_comments": 36,
         "author": "bookofjoe",
-        "collected_at": "2026-04-14 11:30:23"
-    },
-    {
-        "post_id": 47758028,
-        "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
-        "category": "technology",
-        "score": 202,
-        "num_comments": 258,
-        "author": "ZeidJ",
-        "collected_at": "2026-04-14 11:30:25"
+        "collected_at": "2026-04-14 12:18:38"
     },
     {
         "post_id": 47757552,
         "title": "Show HN: Continual Learning with .md",
         "category": "entertainment",
-        "score": 18,
-        "num_comments": 9,
+        "score": 20,
+        "num_comments": 10,
         "author": "wenhan_zhou",
-        "collected_at": "2026-04-14 11:30:26"
+        "collected_at": "2026-04-14 12:18:39"
     },
     {
         "post_id": 47751621,
@@ -114,106 +114,106 @@
         "score": 74,
         "num_comments": 24,
         "author": "mfilion",
-        "collected_at": "2026-04-14 11:30:29"
-    },
-    {
-        "post_id": 47759292,
-        "title": "The AI Revolution in Math Has Arrived",
-        "category": "technology",
-        "score": 5,
-        "num_comments": 0,
-        "author": "sonabinu",
-        "collected_at": "2026-04-14 11:30:30"
+        "collected_at": "2026-04-14 12:18:40"
     },
     {
         "post_id": 47756672,
         "title": "The looming college-enrollment death spiral",
         "category": "technology",
-        "score": 93,
-        "num_comments": 107,
+        "score": 94,
+        "num_comments": 109,
         "author": "JumpCrisscross",
-        "collected_at": "2026-04-14 11:30:33"
+        "collected_at": "2026-04-14 12:18:43"
     },
     {
         "post_id": 47750821,
         "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
         "category": "technology",
-        "score": 204,
-        "num_comments": 114,
+        "score": 206,
+        "num_comments": 116,
         "author": "iamnothere",
-        "collected_at": "2026-04-14 11:30:35"
+        "collected_at": "2026-04-14 12:18:44"
     },
     {
         "post_id": 47758343,
         "title": "CIA reportedly used Pegasus software during rescue of airman in Iran",
         "category": "technology",
-        "score": 28,
+        "score": 29,
         "num_comments": 0,
         "author": "Cider9986",
-        "collected_at": "2026-04-14 11:30:35"
-    },
-    {
-        "post_id": 47758880,
-        "title": "When AI Trading Works, You Won't Hear About It",
-        "category": "technology",
-        "score": 19,
-        "num_comments": 0,
-        "author": "izyda",
-        "collected_at": "2026-04-14 11:30:36"
+        "collected_at": "2026-04-14 12:18:46"
     },
     {
         "post_id": 47748064,
         "title": "The economics of software teams: Why most engineering orgs are flying blind",
         "category": "technology",
-        "score": 388,
-        "num_comments": 254,
+        "score": 390,
+        "num_comments": 258,
         "author": "kiyanwang",
-        "collected_at": "2026-04-14 11:30:38"
+        "collected_at": "2026-04-14 12:18:47"
     },
     {
         "post_id": 47744255,
         "title": "I ran Gemma 4 as a local model in Codex CLI",
         "category": "technology",
-        "score": 245,
+        "score": 246,
         "num_comments": 101,
         "author": "dvaughan",
-        "collected_at": "2026-04-14 11:30:40"
+        "collected_at": "2026-04-14 12:18:49"
     },
     {
-        "post_id": 47758831,
-        "title": "FAA Says Military Can Use Anti-Drone Lasers in U.S. Airspace",
+        "post_id": 47758880,
+        "title": "When AI Trading Works, You Won't Hear About It",
         "category": "technology",
-        "score": 14,
-        "num_comments": 3,
-        "author": "bookofjoe",
-        "collected_at": "2026-04-14 11:30:41"
+        "score": 21,
+        "num_comments": 0,
+        "author": "izyda",
+        "collected_at": "2026-04-14 12:18:49"
     },
     {
         "post_id": 47754179,
         "title": "Claude Code may be burning your limits with invisible tokens",
         "category": "technology",
-        "score": 22,
-        "num_comments": 3,
+        "score": 25,
+        "num_comments": 4,
         "author": "jenic_",
-        "collected_at": "2026-04-14 11:30:42"
+        "collected_at": "2026-04-14 12:18:51"
+    },
+    {
+        "post_id": 47733217,
+        "title": "Exploiting the most prominent AI agent benchmarks",
+        "category": "technology",
+        "score": 576,
+        "num_comments": 137,
+        "author": "Anon84",
+        "collected_at": "2026-04-14 12:18:52"
+    },
+    {
+        "post_id": 47758831,
+        "title": "FAA Says Military Can Use Anti-Drone Lasers in U.S. Airspace",
+        "category": "technology",
+        "score": 16,
+        "num_comments": 4,
+        "author": "bookofjoe",
+        "collected_at": "2026-04-14 12:18:54"
     },
     {
         "post_id": 47758616,
         "title": "Why Your \"AI-First\" Strategy Is Probably Wrong",
         "category": "technology",
-        "score": 17,
-        "num_comments": 6,
+        "score": 18,
+        "num_comments": 7,
         "author": "shenli3514",
-        "collected_at": "2026-04-14 11:30:42"
+        "collected_at": "2026-04-14 12:18:54"
     },
     {
         "post_id": 47758453,
         "title": "Your Favorite Movies Were CIA Propaganda [video]",
         "category": "entertainment",
-        "score": 16,
+        "score": 18,
         "num_comments": 1,
         "author": "joe_mamba",
-        "collected_at": "2026-04-14 11:30:43"
+        "collected_at": "2026-04-14 12:18:56"
     },
     {
         "post_id": 47757289,
@@ -222,34 +222,34 @@
         "score": 4,
         "num_comments": 0,
         "author": "walnutgeek",
-        "collected_at": "2026-04-14 11:30:46"
-    },
-    {
-        "post_id": 47759079,
-        "title": "Sam Altman Attack Suspect Had 'Anti-AI' Document with CEO Names",
-        "category": "politics",
-        "score": 15,
-        "num_comments": 1,
-        "author": "JumpCrisscross",
-        "collected_at": "2026-04-14 11:30:51"
+        "collected_at": "2026-04-14 12:18:59"
     },
     {
         "post_id": 47742200,
         "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
         "category": "entertainment",
         "score": 500,
-        "num_comments": 284,
+        "num_comments": 285,
         "author": "a-ve",
-        "collected_at": "2026-04-14 11:30:56"
+        "collected_at": "2026-04-14 12:19:06"
     },
     {
-        "post_id": 47759281,
-        "title": "NASA Moon Base User's Guide [pdf]",
-        "category": "science",
-        "score": 3,
-        "num_comments": 0,
-        "author": "sethbannon",
-        "collected_at": "2026-04-14 11:30:58"
+        "post_id": 47759079,
+        "title": "Sam Altman Attack Suspect Had 'Anti-AI' Document with CEO Names",
+        "category": "worldnews",
+        "score": 16,
+        "num_comments": 1,
+        "author": "JumpCrisscross",
+        "collected_at": "2026-04-14 12:19:09"
+    },
+    {
+        "post_id": 47741460,
+        "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
+        "category": "sports",
+        "score": 127,
+        "num_comments": 38,
+        "author": "radeeyate",
+        "collected_at": "2026-04-14 12:19:09"
     },
     {
         "post_id": 47754559,
@@ -258,43 +258,34 @@
         "score": 5,
         "num_comments": 0,
         "author": "0xchamin",
-        "collected_at": "2026-04-14 11:30:59"
+        "collected_at": "2026-04-14 12:19:10"
     },
     {
         "post_id": 47755938,
         "title": "Warp",
-        "category": "politics",
+        "category": "worldnews",
         "score": 5,
         "num_comments": 1,
         "author": "Resayours",
-        "collected_at": "2026-04-14 11:30:59"
-    },
-    {
-        "post_id": 47741460,
-        "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
-        "category": "sports",
-        "score": 126,
-        "num_comments": 38,
-        "author": "radeeyate",
-        "collected_at": "2026-04-14 11:31:01"
+        "collected_at": "2026-04-14 12:19:12"
     },
     {
         "post_id": 47749674,
         "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
         "category": "entertainment",
         "score": 174,
-        "num_comments": 115,
+        "num_comments": 116,
         "author": "JanSchu",
-        "collected_at": "2026-04-14 11:31:05"
+        "collected_at": "2026-04-14 12:19:15"
     },
     {
-        "post_id": 47758287,
-        "title": "Dear Master (an open letter from an early Facebook employee)",
-        "category": "entertainment",
-        "score": 9,
-        "num_comments": 1,
-        "author": "plonkus",
-        "collected_at": "2026-04-14 11:31:13"
+        "post_id": 47759281,
+        "title": "NASA Moon Base User's Guide [pdf]",
+        "category": "science",
+        "score": 3,
+        "num_comments": 0,
+        "author": "sethbannon",
+        "collected_at": "2026-04-14 12:19:17"
     },
     {
         "post_id": 47724352,
@@ -303,7 +294,7 @@
         "score": 1391,
         "num_comments": 667,
         "author": "normanvalentine",
-        "collected_at": "2026-04-14 11:31:14"
+        "collected_at": "2026-04-14 12:19:23"
     },
     {
         "post_id": 47741393,
@@ -312,16 +303,16 @@
         "score": 51,
         "num_comments": 0,
         "author": "mooreds",
-        "collected_at": "2026-04-14 11:31:15"
+        "collected_at": "2026-04-14 12:19:24"
     },
     {
         "post_id": 47739174,
         "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
         "category": "entertainment",
-        "score": 236,
+        "score": 237,
         "num_comments": 88,
         "author": "Rochus",
-        "collected_at": "2026-04-14 11:31:18"
+        "collected_at": "2026-04-14 12:19:28"
     },
     {
         "post_id": 47738343,
@@ -330,7 +321,16 @@
         "score": 160,
         "num_comments": 35,
         "author": "maouida",
-        "collected_at": "2026-04-14 11:31:19"
+        "collected_at": "2026-04-14 12:19:29"
+    },
+    {
+        "post_id": 47758287,
+        "title": "Dear Master (an open letter from an early Facebook employee)",
+        "category": "entertainment",
+        "score": 10,
+        "num_comments": 1,
+        "author": "plonkus",
+        "collected_at": "2026-04-14 12:19:30"
     },
     {
         "post_id": 47749295,
@@ -339,7 +339,7 @@
         "score": 11,
         "num_comments": 1,
         "author": "greggman65",
-        "collected_at": "2026-04-14 11:31:21"
+        "collected_at": "2026-04-14 12:19:35"
     },
     {
         "post_id": 47741889,
@@ -348,25 +348,16 @@
         "score": 117,
         "num_comments": 42,
         "author": "halfwhey",
-        "collected_at": "2026-04-14 11:31:27"
+        "collected_at": "2026-04-14 12:19:37"
     },
     {
         "post_id": 47757668,
         "title": "Ukraine Tested Space-Launch Capabilities in Middle of War Twice",
-        "category": "politics",
+        "category": "worldnews",
         "score": 20,
         "num_comments": 0,
         "author": "Teever",
-        "collected_at": "2026-04-14 11:31:27"
-    },
-    {
-        "post_id": 47747248,
-        "title": "Haunt, the 70s text adventure game, is now playable on a website",
-        "category": "sports",
-        "score": 82,
-        "num_comments": 26,
-        "author": "jscalo",
-        "collected_at": "2026-04-14 11:31:33"
+        "collected_at": "2026-04-14 12:19:42"
     },
     {
         "post_id": 47727960,
@@ -375,34 +366,43 @@
         "score": 496,
         "num_comments": 272,
         "author": "vidluther",
-        "collected_at": "2026-04-14 11:31:35"
+        "collected_at": "2026-04-14 12:19:45"
     },
     {
         "post_id": 47698455,
         "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
         "category": "sports",
-        "score": 622,
+        "score": 623,
         "num_comments": 152,
         "author": "iceberger2001",
-        "collected_at": "2026-04-14 11:31:36"
+        "collected_at": "2026-04-14 12:19:46"
+    },
+    {
+        "post_id": 47747248,
+        "title": "Haunt, the 70s text adventure game, is now playable on a website",
+        "category": "sports",
+        "score": 82,
+        "num_comments": 26,
+        "author": "jscalo",
+        "collected_at": "2026-04-14 12:19:47"
     },
     {
         "post_id": 47722333,
         "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-        "category": "politics",
+        "category": "worldnews",
         "score": 435,
         "num_comments": 276,
         "author": "neversaydie",
-        "collected_at": "2026-04-14 11:31:47"
+        "collected_at": "2026-04-14 12:19:55"
     },
     {
         "post_id": 47728653,
         "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-        "category": "politics",
+        "category": "worldnews",
         "score": 505,
         "num_comments": 301,
         "author": "pabs3",
-        "collected_at": "2026-04-14 11:31:49"
+        "collected_at": "2026-04-14 12:19:58"
     },
     {
         "post_id": 47698111,
@@ -411,25 +411,7 @@
         "score": 138,
         "num_comments": 66,
         "author": "GenericCanadian",
-        "collected_at": "2026-04-14 11:31:51"
-    },
-    {
-        "post_id": 47743700,
-        "title": "European AI. A playbook to own it",
-        "category": "entertainment",
-        "score": 198,
-        "num_comments": 131,
-        "author": "hjouneau",
-        "collected_at": "2026-04-14 11:31:56"
-    },
-    {
-        "post_id": 47735405,
-        "title": "Software Preservation Group: C++ History Collection",
-        "category": "politics",
-        "score": 44,
-        "num_comments": 3,
-        "author": "quuxplusone",
-        "collected_at": "2026-04-14 11:31:59"
+        "collected_at": "2026-04-14 12:19:59"
     },
     {
         "post_id": 47713495,
@@ -438,16 +420,25 @@
         "score": 237,
         "num_comments": 56,
         "author": "joko42",
-        "collected_at": "2026-04-14 11:32:01"
+        "collected_at": "2026-04-14 12:20:07"
     },
     {
-        "post_id": 47758029,
-        "title": "He Warned About the Dangers of A.I. If Only His Father Had Listened",
-        "category": "politics",
-        "score": 6,
-        "num_comments": 0,
-        "author": "ceejayoz",
-        "collected_at": "2026-04-14 11:32:06"
+        "post_id": 47735405,
+        "title": "Software Preservation Group: C++ History Collection",
+        "category": "worldnews",
+        "score": 44,
+        "num_comments": 3,
+        "author": "quuxplusone",
+        "collected_at": "2026-04-14 12:20:08"
+    },
+    {
+        "post_id": 47743700,
+        "title": "European AI. A playbook to own it",
+        "category": "entertainment",
+        "score": 198,
+        "num_comments": 131,
+        "author": "hjouneau",
+        "collected_at": "2026-04-14 12:20:09"
     },
     {
         "post_id": 47733066,
@@ -456,7 +447,7 @@
         "score": 75,
         "num_comments": 14,
         "author": "anigbrowl",
-        "collected_at": "2026-04-14 11:32:10"
+        "collected_at": "2026-04-14 12:20:18"
     },
     {
         "post_id": 47701769,
@@ -465,7 +456,7 @@
         "score": 134,
         "num_comments": 19,
         "author": "sohkamyung",
-        "collected_at": "2026-04-14 11:32:12"
+        "collected_at": "2026-04-14 12:20:19"
     },
     {
         "post_id": 47704804,
@@ -474,7 +465,7 @@
         "score": 635,
         "num_comments": 234,
         "author": "speckx",
-        "collected_at": "2026-04-14 11:32:17"
+        "collected_at": "2026-04-14 12:20:23"
     },
     {
         "post_id": 47721997,
@@ -483,7 +474,16 @@
         "score": 155,
         "num_comments": 37,
         "author": "maouida",
-        "collected_at": "2026-04-14 11:32:19"
+        "collected_at": "2026-04-14 12:20:25"
+    },
+    {
+        "post_id": 47758029,
+        "title": "He Warned About the Dangers of A.I. If Only His Father Had Listened",
+        "category": "worldnews",
+        "score": 6,
+        "num_comments": 0,
+        "author": "ceejayoz",
+        "collected_at": "2026-04-14 12:20:28"
     },
     {
         "post_id": 47745300,
@@ -492,16 +492,16 @@
         "score": 9,
         "num_comments": 5,
         "author": "rpatni",
-        "collected_at": "2026-04-14 11:32:21"
+        "collected_at": "2026-04-14 12:20:30"
     },
     {
         "post_id": 47739305,
         "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
         "category": "science",
-        "score": 174,
+        "score": 176,
         "num_comments": 76,
         "author": "smokel",
-        "collected_at": "2026-04-14 11:32:24"
+        "collected_at": "2026-04-14 12:20:32"
     },
     {
         "post_id": 47708818,
@@ -510,16 +510,16 @@
         "score": 642,
         "num_comments": 326,
         "author": "PaulHoule",
-        "collected_at": "2026-04-14 11:32:28"
+        "collected_at": "2026-04-14 12:20:35"
     },
     {
         "post_id": 47721946,
         "title": "JSON formatter Chrome plugin now closed and injecting adware",
-        "category": "politics",
+        "category": "worldnews",
         "score": 287,
         "num_comments": 136,
         "author": "jkl5xx",
-        "collected_at": "2026-04-14 11:32:29"
+        "collected_at": "2026-04-14 12:20:37"
     },
     {
         "post_id": 47728323,
@@ -528,7 +528,7 @@
         "score": 20,
         "num_comments": 1,
         "author": "zdgeier",
-        "collected_at": "2026-04-14 11:32:35"
+        "collected_at": "2026-04-14 12:20:44"
     },
     {
         "post_id": 47745543,
@@ -537,16 +537,7 @@
         "score": 29,
         "num_comments": 12,
         "author": "thunderbong",
-        "collected_at": "2026-04-14 11:32:38"
-    },
-    {
-        "post_id": 47744683,
-        "title": "Show HN: Rekal \u2013 Long-term memory for LLMs in a single SQLite file",
-        "category": "entertainment",
-        "score": 5,
-        "num_comments": 8,
-        "author": "jeeybee",
-        "collected_at": "2026-04-14 11:32:41"
+        "collected_at": "2026-04-14 12:20:46"
     },
     {
         "post_id": 47722011,
@@ -555,25 +546,25 @@
         "score": 90,
         "num_comments": 39,
         "author": "chrisecker",
-        "collected_at": "2026-04-14 11:32:44"
+        "collected_at": "2026-04-14 12:20:49"
+    },
+    {
+        "post_id": 47744683,
+        "title": "Show HN: Rekal \u2013 Long-term memory for LLMs in a single SQLite file",
+        "category": "entertainment",
+        "score": 5,
+        "num_comments": 8,
+        "author": "jeeybee",
+        "collected_at": "2026-04-14 12:20:50"
     },
     {
         "post_id": 47745261,
         "title": "Vegetative Patients May Be More Aware Than We Knew",
-        "category": "politics",
+        "category": "worldnews",
         "score": 35,
         "num_comments": 13,
         "author": "bookofjoe",
-        "collected_at": "2026-04-14 11:32:45"
-    },
-    {
-        "post_id": 47745230,
-        "title": "Sam Altman's home targeted in second attack",
-        "category": "politics",
-        "score": 149,
-        "num_comments": 349,
-        "author": "babelfish",
-        "collected_at": "2026-04-14 11:32:48"
+        "collected_at": "2026-04-14 12:20:54"
     },
     {
         "post_id": 47705413,
@@ -582,7 +573,16 @@
         "score": 176,
         "num_comments": 168,
         "author": "randerson_112",
-        "collected_at": "2026-04-14 11:32:51"
+        "collected_at": "2026-04-14 12:20:56"
+    },
+    {
+        "post_id": 47745230,
+        "title": "Sam Altman's home targeted in second attack",
+        "category": "worldnews",
+        "score": 149,
+        "num_comments": 349,
+        "author": "babelfish",
+        "collected_at": "2026-04-14 12:21:00"
     },
     {
         "post_id": 47731707,
@@ -591,16 +591,16 @@
         "score": 109,
         "num_comments": 62,
         "author": "c420",
-        "collected_at": "2026-04-14 11:33:13"
+        "collected_at": "2026-04-14 12:21:24"
     },
     {
         "post_id": 47695012,
         "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-        "category": "politics",
+        "category": "worldnews",
         "score": 409,
         "num_comments": 48,
         "author": "WerWolv",
-        "collected_at": "2026-04-14 11:33:16"
+        "collected_at": "2026-04-14 12:21:26"
     },
     {
         "post_id": 47741449,
@@ -609,16 +609,16 @@
         "score": 27,
         "num_comments": 9,
         "author": "lexandstuff",
-        "collected_at": "2026-04-14 11:33:24"
+        "collected_at": "2026-04-14 12:21:34"
     },
     {
         "post_id": 47695666,
         "title": "Show HN: Druids \u2013 Build your own software factory",
-        "category": "politics",
+        "category": "worldnews",
         "score": 64,
         "num_comments": 15,
         "author": "etherio",
-        "collected_at": "2026-04-14 11:33:34"
+        "collected_at": "2026-04-14 12:21:43"
     },
     {
         "post_id": 47706141,
@@ -627,16 +627,16 @@
         "score": 212,
         "num_comments": 54,
         "author": "hopechong",
-        "collected_at": "2026-04-14 11:33:36"
+        "collected_at": "2026-04-14 12:21:47"
     },
     {
-        "post_id": 47755118,
-        "title": "Palantir Stock Continues to Fall. Not Even the President Can Erase the Losses",
-        "category": "politics",
-        "score": 14,
-        "num_comments": 2,
-        "author": "1vuio0pswjnm7",
-        "collected_at": "2026-04-14 11:33:37"
+        "post_id": 47692043,
+        "title": "Muse Spark: Scaling towards personal superintelligence",
+        "category": "worldnews",
+        "score": 392,
+        "num_comments": 367,
+        "author": "chabons",
+        "collected_at": "2026-04-14 12:21:51"
     },
     {
         "post_id": 47747625,
@@ -645,25 +645,7 @@
         "score": 14,
         "num_comments": 1,
         "author": "gpi",
-        "collected_at": "2026-04-14 11:33:40"
-    },
-    {
-        "post_id": 47752301,
-        "title": "Booking.com warns customers of hack that exposed their data",
-        "category": "politics",
-        "score": 12,
-        "num_comments": 3,
-        "author": "Brajeshwar",
-        "collected_at": "2026-04-14 11:33:44"
-    },
-    {
-        "post_id": 47692043,
-        "title": "Muse Spark: Scaling towards personal superintelligence",
-        "category": "politics",
-        "score": 392,
-        "num_comments": 367,
-        "author": "chabons",
-        "collected_at": "2026-04-14 11:33:45"
+        "collected_at": "2026-04-14 12:21:52"
     },
     {
         "post_id": 47689165,
@@ -672,7 +654,16 @@
         "score": 119,
         "num_comments": 36,
         "author": "pruz",
-        "collected_at": "2026-04-14 11:33:45"
+        "collected_at": "2026-04-14 12:21:53"
+    },
+    {
+        "post_id": 47755118,
+        "title": "Palantir Stock Continues to Fall. Not Even the President Can Erase the Losses",
+        "category": "worldnews",
+        "score": 14,
+        "num_comments": 2,
+        "author": "1vuio0pswjnm7",
+        "collected_at": "2026-04-14 12:21:55"
     },
     {
         "post_id": 47709251,
@@ -681,7 +672,16 @@
         "score": 262,
         "num_comments": 278,
         "author": "speckx",
-        "collected_at": "2026-04-14 11:33:50"
+        "collected_at": "2026-04-14 12:21:56"
+    },
+    {
+        "post_id": 47752301,
+        "title": "Booking.com warns customers of hack that exposed their data",
+        "category": "worldnews",
+        "score": 12,
+        "num_comments": 3,
+        "author": "Brajeshwar",
+        "collected_at": "2026-04-14 12:22:00"
     },
     {
         "post_id": 47689550,
@@ -690,16 +690,34 @@
         "score": 28,
         "num_comments": 6,
         "author": "russellharper",
-        "collected_at": "2026-04-14 11:33:56"
+        "collected_at": "2026-04-14 12:22:03"
     },
     {
         "post_id": 47729994,
         "title": "Polymarket gamblers betting millions on war",
-        "category": "politics",
+        "category": "worldnews",
         "score": 159,
         "num_comments": 128,
         "author": "sandebert",
-        "collected_at": "2026-04-14 11:33:58"
+        "collected_at": "2026-04-14 12:22:06"
+    },
+    {
+        "post_id": 47693960,
+        "title": "Flashback to a time when government reports were works of art",
+        "category": "worldnews",
+        "score": 30,
+        "num_comments": 12,
+        "author": "NaOH",
+        "collected_at": "2026-04-14 12:22:14"
+    },
+    {
+        "post_id": 47718891,
+        "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+        "category": "worldnews",
+        "score": 122,
+        "num_comments": 72,
+        "author": "fanf2",
+        "collected_at": "2026-04-14 12:22:15"
     },
     {
         "post_id": 47737387,
@@ -708,25 +726,7 @@
         "score": 4,
         "num_comments": 1,
         "author": "joemanaco",
-        "collected_at": "2026-04-14 11:34:06"
-    },
-    {
-        "post_id": 47693960,
-        "title": "Flashback to a time when government reports were works of art",
-        "category": "politics",
-        "score": 30,
-        "num_comments": 12,
-        "author": "NaOH",
-        "collected_at": "2026-04-14 11:34:07"
-    },
-    {
-        "post_id": 47718891,
-        "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
-        "category": "politics",
-        "score": 122,
-        "num_comments": 72,
-        "author": "fanf2",
-        "collected_at": "2026-04-14 11:34:07"
+        "collected_at": "2026-04-14 12:22:16"
     },
     {
         "post_id": 47704430,
@@ -735,7 +735,7 @@
         "score": 10,
         "num_comments": 2,
         "author": "choult",
-        "collected_at": "2026-04-14 11:34:12"
+        "collected_at": "2026-04-14 12:22:21"
     },
     {
         "post_id": 47723243,
@@ -744,16 +744,16 @@
         "score": 87,
         "num_comments": 49,
         "author": "joeax",
-        "collected_at": "2026-04-14 11:34:19"
+        "collected_at": "2026-04-14 12:22:26"
     },
     {
         "post_id": 47722566,
         "title": "DOJ wants to scrap Watergate-era rule that makes presidential records public",
-        "category": "politics",
+        "category": "worldnews",
         "score": 261,
         "num_comments": 69,
         "author": "tlhunter",
-        "collected_at": "2026-04-14 11:34:30"
+        "collected_at": "2026-04-14 12:22:36"
     },
     {
         "post_id": 47704443,
@@ -762,16 +762,16 @@
         "score": 141,
         "num_comments": 184,
         "author": "elsewhen",
-        "collected_at": "2026-04-14 11:34:38"
+        "collected_at": "2026-04-14 12:22:44"
     },
     {
         "post_id": 47718694,
         "title": "\"Negative\" views of Broadcom driving VMware migrations, rival says",
-        "category": "politics",
+        "category": "worldnews",
         "score": 76,
         "num_comments": 39,
         "author": "breve",
-        "collected_at": "2026-04-14 11:34:40"
+        "collected_at": "2026-04-14 12:22:47"
     },
     {
         "post_id": 47717514,
@@ -780,7 +780,7 @@
         "score": 63,
         "num_comments": 3,
         "author": "JumpCrisscross",
-        "collected_at": "2026-04-14 11:34:40"
+        "collected_at": "2026-04-14 12:22:49"
     },
     {
         "post_id": 47733222,
@@ -789,7 +789,7 @@
         "score": 6,
         "num_comments": 1,
         "author": "nvk",
-        "collected_at": "2026-04-14 11:34:53"
+        "collected_at": "2026-04-14 12:23:01"
     },
     {
         "post_id": 47730916,
@@ -798,16 +798,16 @@
         "score": 7,
         "num_comments": 0,
         "author": "AlexeyBrin",
-        "collected_at": "2026-04-14 11:35:03"
+        "collected_at": "2026-04-14 12:23:12"
     },
     {
         "post_id": 47729925,
         "title": "Show HN: I rebuilt a 2000s browser strategy game on Cloudflare's edge",
         "category": "sports",
-        "score": 6,
+        "score": 7,
         "num_comments": 1,
         "author": "parzivalt",
-        "collected_at": "2026-04-14 11:35:13"
+        "collected_at": "2026-04-14 12:23:22"
     },
     {
         "post_id": 47711623,
@@ -816,6 +816,6 @@
         "score": 61,
         "num_comments": 32,
         "author": "testing22321",
-        "collected_at": "2026-04-14 11:35:16"
+        "collected_at": "2026-04-14 12:23:24"
     }
 ]
