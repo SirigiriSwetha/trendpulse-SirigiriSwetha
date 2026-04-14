@@ -2,8 +2,6 @@ import pandas as pd
 import json
 import os
 
-
-
 # 1. Load the JSON File
 # Make sure the filename matches what you saved in Task 1
 json_filename = "data/trends_20260414.json"
@@ -31,7 +29,7 @@ try:
     print(f"Final clean count: {len(df)}")
 
     # 3. Save as CSV and Print Summary
-    csv_filename = "data/cleaned_trends_20260414.csv"
+    csv_filename = "data/trends_clean.csv"
     df.to_csv(csv_filename, index=False)
     
     print(f"\nSuccess! Saved to {csv_filename}")
