@@ -6,7 +6,7 @@ import os
 # 1. Define categories
 categories = {
     "technology": ["AI", "software", "tech", "code", "computer", "data", "cloud", "API", "GPU", "LLM"],
-    "politics": ["war", "government", "country", "president", "election", "climate", "attack", "global"],
+    "worldnews": ["war", "government", "country", "president", "election", "climate", "attack", "global"],
     "sports": ["NFL", "NBA", "PGA", "sport", "game", "team", "player", "league", "championship"],
     "science": ["research", "study", "space", "physics", "biology", "discovery", "NASA", "genome"],
     "entertainment": ["movie", "film", "music", "Netflix", "game", "book", "show", "award", "streaming"]
